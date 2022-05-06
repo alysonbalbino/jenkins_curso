@@ -1,1 +1,2 @@
 echo "Ola, bem vindo ao jenkins!!!"
+echo "Git com Jenkins - pipeline integrado"
